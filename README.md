@@ -74,6 +74,6 @@ MIT. Usa, copia y adapta libremente; ver `LICENSE`.
 
 ## Quienes somos
 
-Mantenido por el equipo de AI Ethical Software / Expertos en Sistemas
-(Mexico). Este repositorio es un recurso de la comunidad, no describe
-nuestros productos ni resultados con clientes.
+Mantenido por el equipo de Ethical AI Software
+(Mexico, https://ethicalaisoftware.ai). Este repositorio es un recurso de la
+comunidad; no describe nuestros productos ni resultados con clientes.
