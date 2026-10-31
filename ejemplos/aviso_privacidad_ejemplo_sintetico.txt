@@ -1,0 +1,35 @@
+EJEMPLO SINTETICO - datos de entrada ficticios para probar el
+prompt/skill "lfpdppp-aviso-privacidad". Ninguno de estos datos
+corresponde a una empresa, persona o direccion real.
+
+Empresa: Ferreteria El Tornillo Feliz SA de CV (ficticia)
+Domicilio: Calle Falsa 123, Col. Centro, Guadalajara, Jalisco,
+           C.P. 44100 (ficticio)
+
+Datos personales que recaba:
+- Nombre completo
+- Telefono
+- Correo electronico
+- Direccion de entrega
+
+Finalidad primaria (indispensable):
+- Procesar pedidos y coordinar entregas a domicilio
+
+Finalidad secundaria (no indispensable):
+- Enviar promociones y descuentos por correo electronico
+
+Transferencia a terceros:
+- Se comparte nombre, telefono y direccion de entrega con la
+  paqueteria externa contratada, unicamente para realizar la
+  entrega del pedido.
+
+Contacto para derechos ARCO:
+- Correo: privacidad@ejemplo-ficticio.mx (ficticio)
+- Responsable de datos personales: [FALTA: nombre del responsable]
+
+---
+
+Este archivo es solo para pruebas. Usa estos datos (o modifica estos
+mismos campos ficticios) con el prompt o la skill correspondiente en
+vez de pegar datos reales de tu empresa mientras pruebas el
+resultado.
