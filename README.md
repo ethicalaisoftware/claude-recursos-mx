@@ -39,6 +39,9 @@ si, y un ejemplo de entrada/salida con datos sinteticos.
   (cobranza) con tono profesional y escalado segun dias de atraso.
 - `resumen_minuta_reunion.md` - convertir notas sueltas de una
   reunion de trabajo en una minuta clara con acuerdos y responsables.
+- `buzon_tributario_sat_resumen.md` - resumir en lenguaje sencillo y
+  clasificar por urgencia las notificaciones del Buzon Tributario del
+  SAT.
 
 ### `skills/`
 
@@ -59,6 +62,7 @@ para que puedas probarlos sin exponer nada real:
 
 - `cfdi_ejemplo_sintetico.xml`
 - `aviso_privacidad_ejemplo_sintetico.txt`
+- `buzon_tributario_ejemplo_sintetico.txt`
 
 ## Como usarlos
 

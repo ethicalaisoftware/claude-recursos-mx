@@ -1,0 +1,29 @@
+EJEMPLO SINTETICO - datos de entrada ficticios para probar el prompt
+"buzon_tributario_sat_resumen". Ninguno de estos datos corresponde a
+una empresa, persona o notificacion real del SAT.
+
+Notificacion 1:
+Contribuyente: Ferreteria El Tornillo Feliz SA de CV, RFC AAA010101AAA
+(ficticio)
+Asunto: Requerimiento de informacion y/o documentacion
+Texto: Se requiere al contribuyente exhibir la documentacion
+comprobatoria de las operaciones declaradas en el periodo
+enero-marzo 2026, en un plazo de 15 dias habiles contados a partir de
+la fecha de notificacion. El incumplimiento podra dar lugar a la
+imposicion de las multas previstas en el Codigo Fiscal de la
+Federacion.
+
+Notificacion 2:
+Contribuyente: Ferreteria El Tornillo Feliz SA de CV, RFC AAA010101AAA
+(ficticio)
+Asunto: Aviso informativo sobre actualizacion del aplicativo de
+Buzon Tributario
+Texto: Se informa que el aplicativo del Buzon Tributario tendra
+mantenimiento el fin de semana proximo. No se requiere ninguna accion
+por parte del contribuyente.
+
+---
+
+Este archivo es solo para pruebas. Usa estos datos (o modifica estos
+mismos campos ficticios) con el prompt correspondiente en vez de
+pegar notificaciones reales del SAT mientras pruebas el resultado.
